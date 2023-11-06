@@ -9,7 +9,6 @@ A desktop application developed in Python with a graphical user interface (GUI) 
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -28,10 +27,6 @@ The Student Admission Management System is designed to streamline the admission 
 - **Starting Token**: Start token numbers from a specific value for flexibility.
 - **Waiting Queue**: Maintain a waiting queue for students who are yet to be admitted.
 - **Google Spreadsheet Integration**: Automatically update admission data to a Google Spreadsheet for easy tracking and record-keeping.
-
-## Demo
-
-Insert a link to a demo video or screenshots showcasing your application in action.
 
 ## Installation
 
@@ -61,5 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, please feel free to contact us:
 
-Ramanand R (mail to: ramanandr786@outlook.com)
+Jithu Francis (mail to: jithufrancis2000@gmail.com)
 
